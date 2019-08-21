@@ -1,4 +1,5 @@
 # asus-pce-ac88-firmware
+A script to generate the linux firmware for the [ASUS PCE-AC88](https://www.asus.com/Networking/PCE-AC88)
 
 ## Usage
 
