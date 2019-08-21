@@ -25,7 +25,7 @@ $ sudo cp /tmp/brcmfmac4366c-pcie.bin /lib/firmware/brcm/brcmfmac4366c-pcie.bin
 ### Wrong regulatory domain
 
 Run the following command on the host to set the regulatory domain.
-Replace xx with the correct domain code (see [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2))
+Replace XX with the correct domain code (see [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2))
 
 ```
 $ iw reg set XX
