@@ -31,6 +31,10 @@ Replace XX with the correct domain code (see [Wikipedia](https://en.wikipedia.or
 $ iw reg set XX
 ```
 
+### Not seeing any 5GHz networks
+
+If you cannot see any 5GHz networks try setting the network to channel 40 or lower in your router. 
+
 ## Useful links
 * https://ubuntuforums.org/showthread.php?t=2337200&p=13618497#post13618497
 * https://blog.cooperteam.net/post/2017-11-10-asus-ac88-wifi-on-linux
